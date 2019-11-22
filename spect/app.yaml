@@ -29,4 +29,4 @@ spec:
                 configMapKeyRef:
                   name: hostname-config
                   key: postgres_host
-          image: gcr.io/$PROJECT_ID/some-hack:latest
+          image: gcr.io/durable-epoch-259807/some-hack:latest
